@@ -43,7 +43,7 @@ Instead of using the configuration in the book, the following seems to work.
 
 ***
 
-On **page 38** persistence.xml checking fails:
+On **page 39** persistence.xml checking fails:
  
 When using the configuration detailed in the book:
 
